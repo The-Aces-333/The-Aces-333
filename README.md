@@ -37,12 +37,12 @@ Driven by an engineering mindset, I love optimizing algorithms and structuring i
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,sql,go,cpp,java,ts,js&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,ts,js&theme=dark" alt="Languages" />
 </p>
 
 **Data Science & ML Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,scikit,tensor,pytorch,fastapi,flask&theme=dark" alt="ML Stack" />
+  <img src="https://skillicons.dev/icons?i=py,scikit,pytorch,fastapi,flask&theme=dark" alt="ML Stack" />
 </p>
 
 **Databases & Big Data**
@@ -52,7 +52,7 @@ Driven by an engineering mindset, I love optimizing algorithms and structuring i
 
 **Cloud, DevOps & Tooling**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,anaconda&theme=dark" alt="DevOps & Tooling" />
+  <img src="https://skillicons.dev/icons?i=aws,dockerlinux,git,githubactions&theme=dark" alt="DevOps & Tooling" />
 </p>
 
 ---
