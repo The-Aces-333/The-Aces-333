@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Specialist;Full-Stack+Architect;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Engineer;Machine+Learning+Engineer;Data+Scientist;MLOps+Specialist" alt="Typing SVG" />
 
   <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/M.S.-Computer%20Science-8b5cf6?style=flat-square&logo=academia" alt="Degree" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Location-Global-4c1d95?style=flat-square&logo=google-maps" alt="Location" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/B.S.-Computer%20Engineering-3b82f6?style=flat-square&logo=academia" alt="Degree" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Location-Global-1d4ed8?style=flat-square&logo=google-maps" alt="Location" /></a>
   </p>
 
   <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-6b21a8?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-1e3a8a?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://github.com/your-university-username"><img src="https://img.shields.io/badge/University%20GitHub-Profile-0052cc?style=for-the-badge&logo=github" alt="University GitHub" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=6b21a8&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=flat-square&color=4c1d95&logo=github" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=1d4ed8&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=flat-square&color=1e3a8a&logo=github" alt="Stars" />
   </p>
 </div>
 
@@ -26,11 +26,11 @@
 
 ## ✦ About
 
-I am a **Senior Software Engineer** with a passion for designing scalable, high-performance distributed systems and building state-of-the-art intelligent applications. My engineering philosophy revolves around building resilient enterprise-grade software and integrating data-driven insights through **AI and Machine Learning**. 
+I am a **Computer Engineer** deeply passionate about bridging the gap between robust software architecture and data-driven intelligence. My expertise lies at the intersection of core computer systems, **Machine Learning**, and **Data Science**. I focus on transforming complex datasets into actionable predictive models and designing the scalable infrastructure required to deploy them efficiently in production. 
 
-With a strong foundation in **Full Stack Development** and a robust **Product Engineering** mindset, I bridge the gap between complex architectural challenges and intuitive user experiences. I thrive in collaborative environments where innovation drives measurable business impact.
+Driven by an engineering mindset, I love optimizing algorithms and structuring intelligent features. This summer, I am dedicated to expanding my portfolio with production-ready ML pipelines, data architectures, and end-to-end analytical solutions.
 
-**Open To:** Leadership Roles | Senior Backend Engineering | AI/ML Integration Initiatives | Open Source Collaborations
+**Open To:** Machine Learning Engineering | Data Science Roles | MLOps Initiatives | Research & Open Source Collaborations
 
 ---
 
@@ -38,22 +38,22 @@ With a strong foundation in **Full Stack Development** and a robust **Product En
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,java,cpp,rust&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,go,cpp,java,ts,js&theme=dark" alt="Languages" />
 </p>
 
-**Frontend**
+**Data Science & ML Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,materialui&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=py,scikit,tensor,pytorch,fastapi,flask&theme=dark" alt="ML Stack" />
 </p>
 
-**Backend & Databases**
+**Databases & Big Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,postgres,mongodb,redis,kafka&theme=dark" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" alt="Databases" />
 </p>
 
 **Cloud, DevOps & Tooling**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git,githubactions,terraform&theme=dark" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,anaconda&theme=dark" alt="DevOps & Tooling" />
 </p>
 
 ---
@@ -61,52 +61,52 @@ With a strong foundation in **Full Stack Development** and a robust **Product En
 ## ✦ AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Large Language Models** | Advanced | Fine-tuning, RAG pipelines, Prompt Engineering (GPT-4, LLaMA, Claude) |
-| **Computer Vision** | Intermediate | Image classification, Object detection, OpenCV, YOLO |
-| **Natural Language Processing** | Advanced | Semantic search, Sentiment analysis, Hugging Face Transformers |
-| **MLOps** | Intermediate | Model deployment, Endpoint optimization, MLflow, AWS SageMaker |
-| **Data Engineering** | Advanced | ETL pipelines, Distributed computing, PySpark, Snowflake |
+| :--- | :--- | :--- |
+| **Statistical Modeling & ML** | Advanced | Regression, Clustering, Decision Trees, Ensemble Methods (Scikit-Learn) |
+| **Deep Learning** | Intermediate | Neural Networks, Computer Vision (PyTorch, TensorFlow, OpenCV) |
+| **Data Engineering & ETL** | Advanced | Pipeline design, Data cleaning, Feature extraction, SQL optimization |
+| **MLOps** | Intermediate | Containerization, Model deployment, API serving (Docker, FastAPI) |
+| **Large Language Models** | Intermediate | RAG architectures, Prompt tuning, Semantic Search integrations |
 
 ---
 
 ## ✦ Featured Projects
 
 <details>
-  <summary><b>Nexus AI - Enterprise Intelligence Platform</b></summary>
+  <summary><b>IntelliStream - End-to-End Predictive Analytics Pipeline</b></summary>
   <br>
   
-  A highly scalable AI orchestration layer designed to integrate enterprise data securely into multi-LLM pipelines for semantic search and automated internal reporting.
+  A scalable data engineering and machine learning platform designed to ingest high-frequency telemetry data, process features in real-time, and serve inference predictions.
 
   | Attribute | Details |
   | :--- | :--- |
-  | **Stack** | Python, FastAPI, React, PostgreSQL, Redis, Kubernetes |
-  | **Scale** | Handles 1M+ daily queries; Distributed across 3 AWS regions |
-  | **Performance** | < 200ms latency for vector similarity searches |
-  | **Security** | End-to-end AES-256 encryption, SOC2 compliant architecture |
-  | **Impact** | Reduced manual reporting hours by 40% across the organization |
-  | **Repository** | [github.com/yourusername/nexus-ai](#) |
+  | **Stack** | Python, Scikit-Learn, FastAPI, PostgreSQL, Docker, Redis |
+  | **Scale** | Ingests and processes millions of data points smoothly |
+  | **Performance** | < 50ms model inference latency under concurrent loads |
+  | **Security** | Secure data ingestion endpoints with JWT authentication |
+  | **Impact** | Achieved 94.2% prediction accuracy on test validation sets |
+  | **Repository** | [github.com/yourusername/intellistream-ml](#) |
 
-  *This project involved architecting a multi-tenant vector database infrastructure to support real-time data ingestion while maintaining strict access control models. Built custom tokenizers to optimize context window limits, cutting API costs by 25%.*
+  *This system balances low-latency serving with high-throughput training cycles. Engineered custom data pre-processing and isolation transforms to prevent feature leakage, ensuring statistical stability in live environments.*
 
 </details>
 
 <details>
-  <summary><b>Distributed Event Mesh Engine</b></summary>
+  <summary><b>NeuroVision - Industrial Defect Detection System</b></summary>
   <br>
 
-  A robust messaging broker overlay built to process real-time financial transactions, ensuring high availability and zero message loss.
+  A Deep Learning computer vision system engineered to detect surface anomalies on manufacturing components using convolutional networks.
 
   | Attribute | Details |
   | :--- | :--- |
-  | **Stack** | Go, Apache Kafka, gRPC, Docker, Prometheus |
-  | **Scale** | 50,000 TPS sustained throughput |
-  | **Performance** | O(1) time complexity for message routing |
-  | **Security** | mTLS authentication between all microservices |
-  | **Impact** | Achieved 99.999% uptime during peak trading hours |
-  | **Repository** | [github.com/yourusername/event-mesh](#) |
+  | **Stack** | Python, PyTorch, OpenCV, Docker, GitHub Actions |
+  | **Scale** | Optimized to run on edge computing hardware deployments |
+  | **Performance** | High FPS image stream inference handling |
+  | **Security** | Local-first deployment ensuring total data privacy |
+  | **Impact** | Reduced false negative rate down to less than 1.5% |
+  | **Repository** | [github.com/yourusername/neurovision](#) |
 
-  *Engineered a custom partition rebalancing algorithm that out-performed default Kafka configurations in high-throughput scenarios. Implemented comprehensive telemetry dashboards using Grafana for real-time anomaly detection.*
+  *Applied data augmentation and transfer learning techniques to overcome data scarcity constraints. Designed a compact architecture tailored specifically to meet hard real-time latency requirements on constrained edge nodes.*
 
 </details>
 
@@ -114,27 +114,27 @@ With a strong foundation in **Full Stack Development** and a robust **Product En
 
 ## ✦ Experience
 
-**Senior Software Engineer** | Enterprise Tech Inc.
-*January 2021 - Present*
+**Machine Learning Engineer / Data Consultant** | Tech Solutions Corp.
+*January 2024 - Present*
 
-Spearheaded the modernization of legacy monoliths into cloud-native microservices architecture, driving a complete technological transformation for the core product suite.
-*   Architected and deployed highly available REST and gRPC APIs serving 5M+ daily active users.
-*   Led a squad of 6 engineers in migrating on-premise databases to AWS Aurora, resulting in a 35% decrease in infrastructure costs.
-*   Integrated an LLM-based intelligent search feature that improved user retention by 15%.
+Leading data initiatives to integrate predictive modeling and intelligent features into enterprise business intelligence suites.
+*   Designed and maintained robust ETL pipelines that consolidated data across diverse SQL and NoSQL sources.
+*   Developed predictive analytics models that optimized supply chain forecasting accuracy by 22%.
+*   Collaborated on moving prototype Jupyter models into production-grade containerized microservices.
 
-`System Design` `Go` `Python` `AWS` `Kubernetes` `Team Leadership`
+`Python` `Scikit-Learn` `SQL` `Docker` `FastAPI` `Data Pipelines`
 
 <br>
 
-**Software Engineer II** | Scale Startup LLC
-*August 2018 - December 2020*
+**Junior Software Engineer (Data Focus)** | Systems Innovation Lab
+*June 2022 - December 2023*
 
-Developed core features for a hyper-growth SaaS product, focusing on backend performance and frontend reactivity.
-*   Optimized SQL query response times by an average of 40% through indexing and caching layers using Redis.
-*   Built a robust CI/CD pipeline reducing deployment times from 45 minutes to under 5 minutes.
-*   Collaborated cross-functionally with Product and Design teams to deliver responsive UI components.
+Focused on building reliable data collections, platform backends, and performance tuning for analytical tools.
+*   Optimized relational database queries, achieving an average 35% speedup in large data aggregations.
+*   Built and automated dashboard backends using Python and Flask to visualize critical infrastructure metrics.
+*   Implemented automated data validation checks that cut dirty data ingestion rates by 50%.
 
-`React` `Node.js` `PostgreSQL` `Docker` `GitHub Actions`
+`Python` `PostgreSQL` `Flask` `Git` `Linux` `Data Analysis`
 
 ---
 
@@ -144,10 +144,10 @@ Developed core features for a hyper-growth SaaS product, focusing on backend per
 
 | Recognition | Details |
 | :--- | :--- |
-| 🏆 **Hackathon Winner** | Global AI Innovation Hackathon (1st Place among 500+ teams) |
-| ⭐ **Open Source Contributor** | Merged PRs in major frameworks (e.g., React, FastAPI) |
-| 🚀 **Performance Award** | "Engineer of the Year" - Enterprise Tech Inc. (2023) |
-| 📈 **Scaling Milestone** | Successfully designed systems handling 100K+ concurrent WebSockets |
+| 🏆 **Data Hackathon Winner** | Best Predictive Model Design - Regional Tech Summit |
+| ⭐ **Academic Research** | Co-authored a paper on automated feature extraction optimization |
+| 🚀 **Infrastructure Milestone** | Successfully migrated a legacy system to a modern Dockerized architecture |
+| 📈 **Kaggle Competitor** | Ranked in the top tiers of active machine learning challenges |
 
 </div>
 
@@ -173,10 +173,10 @@ Developed core features for a hyper-growth SaaS product, focusing on backend per
 ## ✦ Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5%20Stars-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-4%20Stars-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Elite-3b82f6?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Rank%201-1d4ed8?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-5%20Stars-1e3a8a?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Expert-0052cc?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
 
 ---
@@ -184,10 +184,10 @@ Developed core features for a hyper-growth SaaS product, focusing on backend per
 ## ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&hide_border=true" alt="GitHub Streak" width="48%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=0d1117&title_color=8b5cf6&text_color=ffffff&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&text_color=ffffff&hide_border=true" alt="Top Languages" width="50%" />
 </div>
 
 ---
@@ -195,7 +195,7 @@ Developed core features for a hyper-growth SaaS product, focusing on backend per
 ## ✦ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6&no-frame=true&no-bg=true&title-text-color=8b5cf6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&title-text-color=3b82f6" alt="Trophies" />
 </div>
 
 ---
@@ -203,7 +203,7 @@ Developed core features for a hyper-growth SaaS product, focusing on backend per
 ## ✦ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -220,12 +220,12 @@ Developed core features for a hyper-growth SaaS product, focusing on backend per
 
 ```yaml
 learning: 
-  - "Advanced Retrieval-Augmented Generation (RAG) Architecture"
-  - "Distributed Systems Performance Tuning in Rust"
+  - "Deep Learning Architectures & Advanced Transformer Optimization"
+  - "Production-ready MLOps pipelines (MLflow, Kubeflow)"
 building: 
-  - "An open-source LLM orchestration framework"
+  - "A comprehensive portfolio of open-source ML/Data Science projects this summer"
 exploring: 
-  - "WebAssembly for Edge Computing"
+  - "Reinforcement Learning & Vector Database scalability"
 open_to: 
-  - "Architectural consultancy"
-  - "Open source collaboration"
+  - "Machine Learning research collaborations"
+  - "Data Engineering infrastructure design"
