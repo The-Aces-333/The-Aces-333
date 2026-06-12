@@ -11,14 +11,13 @@
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-1e3a8a?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="https://github.com/your-university-username"><img src="https://img.shields.io/badge/University%20GitHub-Profile-0052cc?style=for-the-badge&logo=github" alt="University GitHub" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+    <a href="jaime.del.campo.montana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=1d4ed8&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=flat-square&color=1e3a8a&logo=github" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=The-Aces-333&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/The-Aces-333?label=Followers&style=flat-square&color=1d4ed8&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/The-Aces-333?label=Stars&style=flat-square&color=1e3a8a&logo=github" alt="Stars" />
   </p>
 </div>
 
@@ -38,22 +37,22 @@ Driven by an engineering mindset, I love optimizing algorithms and structuring i
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,sql,go,cpp,java,ts,js&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql&theme=dark" alt="Languages" />
 </p>
 
 **Data Science & ML Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=py,scikit,tensor,pytorch,fastapi,flask&theme=dark" alt="ML Stack" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi&theme=dark" alt="ML Stack" />
 </p>
 
 **Databases & Big Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
 </p>
 
 **Cloud, DevOps & Tooling**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,githubactions,anaconda&theme=dark" alt="DevOps & Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions&theme=dark" alt="DevOps & Tooling" />
 </p>
 
 ---
